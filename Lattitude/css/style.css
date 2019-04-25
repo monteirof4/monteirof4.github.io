@@ -1,0 +1,50 @@
+.navbar-dark{
+    background-color: #2c3e50;
+    color: white;
+}
+
+.navbar-dark .navbar-brand {
+    color:white;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+.body {
+    background-color: #2c3e50;
+    color: white;
+    height: 80%;
+}
+
+.container-fluid {
+    width: 95%;
+}
+
+hr {
+    border-color: white;
+}
+
+#main-img {
+    width: 30%; 
+    height: 30%; 
+    float: left;
+    margin-right: 10px;
+}
+
+.row .align {
+    text-align: center;
+}
+
+.custom-border {
+    border: 2px solid red;
+}
+
+#dataheader {
+    padding: 15px;
+}
+
+.tback {
+    background-color: white;
+}
