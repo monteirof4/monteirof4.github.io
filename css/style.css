@@ -1,0 +1,59 @@
+.navbar-dark{
+    background-color: #2c3e50;
+    color: white;
+}
+
+.navbar-dark .navbar-brand {
+    color:white;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+/*.body {
+    background-color: #2c3e50;
+    color: white;
+    height: 80%;
+}*/
+
+.jumbotron {
+    background-image: url("https://images.pexels.com/photos/951240/pexels-photo-951240.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-linkedin {
+    background: #0E76A8;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: #fff;
+  }
+
+  .btn-github {
+    background:black;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-github:link, .btn-github:visited {
+    color: #fff;
+  }
+  .btn-github:active, .btn-github:hover {
+    background: #084461;
+    color: #fff;
+  }
+
+ 
